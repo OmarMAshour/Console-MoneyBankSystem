@@ -1,0 +1,1 @@
+[{"balance":1000.0,"opened":true,"transactionsNeeded":[null,null,null,null,null,null,null,null,null,null],"noOfTransactions":0,"accountType":"SAVING","name":"Omar Ashour","username":"OA","id":"C1","password":"1234"}]
